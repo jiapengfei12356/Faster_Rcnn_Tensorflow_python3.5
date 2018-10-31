@@ -19,7 +19,7 @@
 ![faster-rcnn(改).pptx](https://github.com/ztoString/ImageRepository/raw/master/Faster_Rcnn_Tensorflow_python3.5/Fast_Rcnn.png)
 
 ### ROI
-![faster-rcnn(改).pptx](https://github.com/ztoString/ImageRepository/raw/master/Faster_Rcnn_Tensorflow_python3.5/ROI.gif)
+![faster-rcnn(改).pptx](https://img-blog.csdn.net/20180511113933913?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MzY0Mjk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ### FASTER_RCNN
 ![faster-rcnn(改).pptx](https://github.com/ztoString/ImageRepository/raw/master/Faster_Rcnn_Tensorflow_python3.5/Faster_Rcnn_1.png)
